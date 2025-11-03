@@ -1,0 +1,9 @@
+body {
+  font-family: 'Poppins', sans-serif;
+  background-color: #f7f9fc;
+  margin: 0;
+  padding: 0;
+}
+.app-container {
+  padding: 20px;
+}
