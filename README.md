@@ -1,8 +1,3 @@
-
----
-
-###  README.md
-```markdown
 # EZ Pass NH
 
 ## Description
